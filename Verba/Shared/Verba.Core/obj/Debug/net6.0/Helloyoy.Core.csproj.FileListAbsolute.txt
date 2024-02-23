@@ -1,0 +1,17 @@
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Core\bin\Debug\net6.0\Verba.Core.deps.json
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Core\bin\Debug\net6.0\Verba.Core.dll
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Core\bin\Debug\net6.0\Verba.Core.pdb
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Core\bin\Debug\net6.0\Verba.Abstractions.dll
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Core\bin\Debug\net6.0\Verba.Domain.Abstractions.dll
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Core\bin\Debug\net6.0\Verba.Abstractions.pdb
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Core\bin\Debug\net6.0\Verba.Domain.Abstractions.pdb
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Core\obj\Debug\net6.0\Verba.Core.csproj.AssemblyReference.cache
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Core\obj\Debug\net6.0\Verba.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Core\obj\Debug\net6.0\Verba.Core.AssemblyInfoInputs.cache
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Core\obj\Debug\net6.0\Verba.Core.AssemblyInfo.cs
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Core\obj\Debug\net6.0\Verba.Core.csproj.CoreCompileInputs.cache
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Core\obj\Debug\net6.0\Verba.Core.csproj.CopyComplete
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Core\obj\Debug\net6.0\Verba.Core.dll
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Core\obj\Debug\net6.0\refint\Verba.Core.dll
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Core\obj\Debug\net6.0\Verba.Core.pdb
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Core\obj\Debug\net6.0\ref\Verba.Core.dll

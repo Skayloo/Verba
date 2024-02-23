@@ -1,0 +1,14 @@
+C:\Users\ss\Desktop\hello_bsp\Verba\Identity\Verba.Identity.Dto\bin\Debug\net6.0\Verba.Identity.Dto.deps.json
+C:\Users\ss\Desktop\hello_bsp\Verba\Identity\Verba.Identity.Dto\bin\Debug\net6.0\Verba.Identity.Dto.runtimeconfig.json
+C:\Users\ss\Desktop\hello_bsp\Verba\Identity\Verba.Identity.Dto\bin\Debug\net6.0\Verba.Identity.Dto.dll
+C:\Users\ss\Desktop\hello_bsp\Verba\Identity\Verba.Identity.Dto\bin\Debug\net6.0\Verba.Identity.Dto.pdb
+C:\Users\ss\Desktop\hello_bsp\Verba\Identity\Verba.Identity.Dto\obj\Debug\net6.0\Verba.Identity.Dto.csproj.AssemblyReference.cache
+C:\Users\ss\Desktop\hello_bsp\Verba\Identity\Verba.Identity.Dto\obj\Debug\net6.0\Verba.Identity.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ss\Desktop\hello_bsp\Verba\Identity\Verba.Identity.Dto\obj\Debug\net6.0\Verba.Identity.Dto.AssemblyInfoInputs.cache
+C:\Users\ss\Desktop\hello_bsp\Verba\Identity\Verba.Identity.Dto\obj\Debug\net6.0\Verba.Identity.Dto.AssemblyInfo.cs
+C:\Users\ss\Desktop\hello_bsp\Verba\Identity\Verba.Identity.Dto\obj\Debug\net6.0\Verba.Identity.Dto.csproj.CoreCompileInputs.cache
+C:\Users\ss\Desktop\hello_bsp\Verba\Identity\Verba.Identity.Dto\obj\Debug\net6.0\Verba.Identity.Dto.dll
+C:\Users\ss\Desktop\hello_bsp\Verba\Identity\Verba.Identity.Dto\obj\Debug\net6.0\refint\Verba.Identity.Dto.dll
+C:\Users\ss\Desktop\hello_bsp\Verba\Identity\Verba.Identity.Dto\obj\Debug\net6.0\Verba.Identity.Dto.pdb
+C:\Users\ss\Desktop\hello_bsp\Verba\Identity\Verba.Identity.Dto\obj\Debug\net6.0\Verba.Identity.Dto.genruntimeconfig.cache
+C:\Users\ss\Desktop\hello_bsp\Verba\Identity\Verba.Identity.Dto\obj\Debug\net6.0\ref\Verba.Identity.Dto.dll

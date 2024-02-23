@@ -1,0 +1,11 @@
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Domain.Abstractions\bin\Debug\net6.0\Verba.Domain.Abstractions.deps.json
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Domain.Abstractions\bin\Debug\net6.0\Verba.Domain.Abstractions.dll
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Domain.Abstractions\bin\Debug\net6.0\Verba.Domain.Abstractions.pdb
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Domain.Abstractions\obj\Debug\net6.0\Verba.Domain.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Domain.Abstractions\obj\Debug\net6.0\Verba.Domain.Abstractions.AssemblyInfoInputs.cache
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Domain.Abstractions\obj\Debug\net6.0\Verba.Domain.Abstractions.AssemblyInfo.cs
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Domain.Abstractions\obj\Debug\net6.0\Verba.Domain.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Domain.Abstractions\obj\Debug\net6.0\Verba.Domain.Abstractions.dll
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Domain.Abstractions\obj\Debug\net6.0\refint\Verba.Domain.Abstractions.dll
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Domain.Abstractions\obj\Debug\net6.0\Verba.Domain.Abstractions.pdb
+C:\Users\ss\Desktop\hello_bsp\Verba\Shared\Verba.Domain.Abstractions\obj\Debug\net6.0\ref\Verba.Domain.Abstractions.dll

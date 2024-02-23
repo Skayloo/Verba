@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "lFDAu/8HzJrIqr4bOuYXcwFZZCcoTROmkd2L8Nx4ZUB8Fks0fpsf01pTytED1QcaLzlfcInUVLzL6Byj/D8KUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ss\\Desktop\\Verba\\Verba\\Shared\\Verba.Domain.Abstractions\\Verba.Domain.Abstractions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ss\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.1.2\\microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
+    "C:\\Users\\ss\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.1.2\\microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\ss\\.nuget\\packages\\microsoft.identitymodel.logging\\7.1.2\\microsoft.identitymodel.logging.7.1.2.nupkg.sha512",
+    "C:\\Users\\ss\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.1.2\\microsoft.identitymodel.tokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\ss\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.1.2\\system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

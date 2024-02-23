@@ -1,0 +1,233 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ss\\Desktop\\hello_bsp\\Verba\\Shared\\Verba.Core\\Verba.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ss\\Desktop\\hello_bsp\\Verba\\Shared\\Verba.Abstractions\\Verba.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ss\\Desktop\\hello_bsp\\Verba\\Shared\\Verba.Abstractions\\Verba.Abstractions.csproj",
+        "projectName": "Verba.Abstractions",
+        "projectPath": "C:\\Users\\ss\\Desktop\\hello_bsp\\Verba\\Shared\\Verba.Abstractions\\Verba.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\ss\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ss\\Desktop\\hello_bsp\\Verba\\Shared\\Verba.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ss\\Desktop\\hello_bsp\\Verba\\Shared\\Verba.Domain.Abstractions\\Verba.Domain.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\ss\\Desktop\\hello_bsp\\Verba\\Shared\\Verba.Domain.Abstractions\\Verba.Domain.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ss\\Desktop\\hello_bsp\\Verba\\Shared\\Verba.Core\\Verba.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ss\\Desktop\\hello_bsp\\Verba\\Shared\\Verba.Core\\Verba.Core.csproj",
+        "projectName": "Verba.Core",
+        "projectPath": "C:\\Users\\ss\\Desktop\\hello_bsp\\Verba\\Shared\\Verba.Core\\Verba.Core.csproj",
+        "packagesPath": "C:\\Users\\ss\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ss\\Desktop\\hello_bsp\\Verba\\Shared\\Verba.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ss\\Desktop\\hello_bsp\\Verba\\Shared\\Verba.Abstractions\\Verba.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\ss\\Desktop\\hello_bsp\\Verba\\Shared\\Verba.Abstractions\\Verba.Abstractions.csproj"
+              },
+              "C:\\Users\\ss\\Desktop\\hello_bsp\\Verba\\Shared\\Verba.Domain.Abstractions\\Verba.Domain.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\ss\\Desktop\\hello_bsp\\Verba\\Shared\\Verba.Domain.Abstractions\\Verba.Domain.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.21, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ss\\Desktop\\hello_bsp\\Verba\\Shared\\Verba.Domain.Abstractions\\Verba.Domain.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ss\\Desktop\\hello_bsp\\Verba\\Shared\\Verba.Domain.Abstractions\\Verba.Domain.Abstractions.csproj",
+        "projectName": "Verba.Domain.Abstractions",
+        "projectPath": "C:\\Users\\ss\\Desktop\\hello_bsp\\Verba\\Shared\\Verba.Domain.Abstractions\\Verba.Domain.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\ss\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ss\\Desktop\\hello_bsp\\Verba\\Shared\\Verba.Domain.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
